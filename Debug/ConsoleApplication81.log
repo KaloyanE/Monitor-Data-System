@@ -1,0 +1,4 @@
+﻿  ConsoleApplication81.cpp
+C:\Users\darth\source\repos\ConsoleApplication81\ConsoleApplication81\ConsoleApplication81.cpp(280,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\darth\source\repos\ConsoleApplication81\ConsoleApplication81\ConsoleApplication81.cpp(718,35): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication81.vcxproj -> C:\Users\darth\source\repos\ConsoleApplication81\Debug\ConsoleApplication81.exe
